@@ -4,3 +4,4 @@ pycaret
 pandas_profiling
 pandas
 streamlit_pandas_profiling
+scikit-learn==0.23.2
